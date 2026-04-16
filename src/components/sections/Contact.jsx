@@ -42,7 +42,7 @@ export default function Contact() {
       className="py-24 px-6 lg:px-12"
       style={{ backgroundColor: 'var(--color-cream-dark)' }}
     >
-      <div className="max-w-3xl mx-auto">
+      <div className="mx-auto">
         {/* Header */}
         <motion.div
           className="text-center mb-14"
@@ -58,7 +58,7 @@ export default function Contact() {
             Contacto
           </p>
           <h2
-            className="font-['Playfair_Display'] font-bold mb-4"
+            className="font-['Playfair_Display'] font-bold"
             style={{ color: 'var(--color-charcoal)', fontSize: 'clamp(1.8rem, 4vw, 3rem)' }}
           >
             {t('contact.title')}
