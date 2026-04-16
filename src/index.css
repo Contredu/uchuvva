@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+  --color-cream: #F5F0E8;
+  --color-cream-dark: #EDE7D9;
+  --color-sage: #7A8C6E;
+  --color-sage-light: #9DB08D;
+  --color-sage-dark: #5C6E52;
+  --color-brown: #6B4F3A;
+  --color-brown-light: #8B6A52;
+  --color-charcoal: #2C2C2C;
+  --color-charcoal-light: #555555;
+  --color-white: #FFFFFF;
+  --color-overlay: rgba(44, 44, 44, 0.45);
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+
+  --shadow-card: 0 4px 24px rgba(44, 44, 44, 0.08);
+  --shadow-card-hover: 0 12px 40px rgba(44, 44, 44, 0.16);
+  --shadow-nav: 0 2px 20px rgba(44, 44, 44, 0.08);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-display);
+  line-height: 1.2;
+}

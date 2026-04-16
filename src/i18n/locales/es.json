@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "menu": "Menús",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "quote": "Solicitar Presupuesto"
+  },
+  "hero": {
+    "title": "Catering Plant-Based Elevado",
+    "subtitle": "Descubra una experiencia culinaria sostenible y exquisita.",
+    "cta_menu": "Ver Menús",
+    "cta_quote": "Solicitar Presupuesto"
+  },
+  "menu": {
+    "title": "Nuestros Platos",
+    "subtitle": "Creaciones culinarias que celebran la riqueza de los ingredientes vegetales",
+    "details": "ver detalles",
+    "close": "Cerrar",
+    "items": {
+      "ceviche": {
+        "name": "Catering de Ceviche",
+        "description": "Ceviche fresco elaborado con ingredientes vegetales seleccionados, marinado en jugo de lima y especias exóticas."
+      },
+      "cheese": {
+        "name": "Quesos Artesanales",
+        "description": "Selección de quesos veganos artesanales elaborados con frutos secos y cultivos naturales, madurados a la perfección."
+      },
+      "main": {
+        "name": "Plato de Curso Principal",
+        "description": "Elaborada selección de platos principales de temporada con proteínas vegetales premium y salsas de autor."
+      },
+      "salad": {
+        "name": "Ensaladas de Temporada",
+        "description": "Frescas composiciones de vegetales orgánicos, semillas y aderezos artesanales que deleitan el paladar."
+      },
+      "tart": {
+        "name": "Tartas Saladas",
+        "description": "Tartas gourmet con bases crujientes rellenas de verduras de temporada y cremas vegetales suaves."
+      },
+      "appetizer": {
+        "name": "Aperitivos Creativos",
+        "description": "Bocados únicos y elegantes que abren el apetito y sorprenden con combinaciones inesperadas de sabores."
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Experiencias gastronómicas únicas para cada ocasión",
+    "corporate": {
+      "name": "Eventos Corporativos",
+      "description": "Catering profesional para reuniones, conferencias y celebraciones empresariales. Impresiona a tus clientes con una propuesta gastronómica de primer nivel."
+    },
+    "weddings": {
+      "name": "Bodas y Celebraciones",
+      "description": "Convierte el día más especial en una experiencia culinaria inolvidable. Menús personalizados que cuentan vuestra historia."
+    },
+    "private": {
+      "name": "Experiencias Privadas",
+      "description": "Chef privado en casa para cenas íntimas y eventos exclusivos. Una experiencia gastronómica completamente personalizada."
+    },
+    "cta": "Solicitar Información"
+  },
+  "about": {
+    "title": "Nuestra Historia",
+    "subtitle": "Donde la sostenibilidad se convierte en arte culinario",
+    "story": "Uchuvva nació de la convicción de que la cocina plant-based puede ser tan exquisita como cualquier alta cocina. Nuestro equipo de chefs especializados transforma ingredientes vegetales de primera calidad en experiencias gastronómicas memorables.",
+    "values": {
+      "sustainability": {
+        "title": "Sostenibilidad",
+        "description": "Ingredientes locales y de temporada, packaging biodegradable y compromiso total con el planeta."
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Cada plato es una obra de arte elaborada con técnicas de alta cocina y productos seleccionados."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Exploramos continuamente nuevas combinaciones y técnicas para sorprender y deleitar."
+      }
+    }
+  },
+  "contact": {
+    "title": "Solicitar Presupuesto",
+    "subtitle": "Cuéntanos sobre tu evento y te prepararemos una propuesta personalizada",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "event_type": "Tipo de evento",
+      "event_types": {
+        "corporate": "Evento Corporativo",
+        "wedding": "Boda",
+        "private": "Evento Privado",
+        "other": "Otro"
+      },
+      "guests": "Número de invitados",
+      "date": "Fecha del evento",
+      "message": "Cuéntanos más sobre tu evento",
+      "submit": "Enviar Solicitud",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado! Te contactaremos pronto.",
+      "error": "Error al enviar. Por favor inténtalo de nuevo."
+    }
+  },
+  "footer": {
+    "tagline": "Plant-Based Food",
+    "description": "Catering plant-based de alta cocina para eventos únicos e inolvidables.",
+    "links_title": "Enlaces",
+    "contact_title": "Contacto",
+    "rights": "Todos los derechos reservados."
+  }
+}
