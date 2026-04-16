@@ -14,7 +14,7 @@ export default function About() {
       className="py-24 px-6 lg:px-12"
       style={{ backgroundColor: 'var(--color-cream)' }}
     >
-      <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
         {/* Text */}
         <motion.div
           initial={{ opacity: 0, x: -40 }}

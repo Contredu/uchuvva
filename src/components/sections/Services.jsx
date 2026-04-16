@@ -16,7 +16,7 @@ export default function Services() {
       className="py-24 px-6 lg:px-12"
       style={{ backgroundColor: 'var(--color-cream-dark)' }}
     >
-      <div className="max-w-7xl mx-auto">
+      <div className="mx-auto">
         {/* Header */}
         <motion.div
           className="text-center mb-16"
